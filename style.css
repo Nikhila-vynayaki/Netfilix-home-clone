@@ -1,3 +1,8 @@
+/* @font-face {
+    font-family: ;
+    src: url();
+} */
+
 *{
    box-sizing: border-box;
 }
@@ -8,7 +13,7 @@ body{
 }
 
 .main{
-    background-image: url(./Assets/Images/BackgroundImg.jpg);
+    background-image: url(./Assets/Images/BackgroundImg.webp);/* is a light version*/
     background-position: center center;
     background-size:auto;
     height: 800px;
